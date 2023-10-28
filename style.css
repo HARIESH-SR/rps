@@ -1,0 +1,21 @@
+#heading{
+    font-weight: bold;
+    font-size: 20px;
+}
+button{
+    padding: 10px 15px;
+    font-size: 18px;
+    margin-left: 10px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    transition: box-shadow 0.15s;
+}
+button:hover{
+    box-shadow:1px 1px 10px gray;
+}
+body{
+    font-family: Arial;
+}
